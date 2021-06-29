@@ -1,0 +1,25 @@
+.menu{
+    text-align: center;
+}
+
+.menu a {
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+    width: 100px;
+}
+
+.menu a:hover{
+    background-color: #ccc;
+}
+
+.header {
+    text-align: center;
+    background-color: black;
+    font: 2em Arial, sans-serif;
+    text-shadow: white 0 0 2px;
+    padding: 200px 0;
+    background-image: url(everest.png);
+    background-repeat: no-repeat;
+    background-position: top center;
+}
